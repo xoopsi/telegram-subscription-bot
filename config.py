@@ -48,10 +48,3 @@ SCHEDULER_INTERVAL = int(os.getenv("SCHEDULER_INTERVAL", str(60 * 60 * 6)))
 # Log retention (days)
 LOG_RETENTION_DAYS = int(os.getenv("LOG_RETENTION_DAYS", "4"))
 
-
-PROXY_URL = os.getenv("PROXY_URL", "")
-
-MANAGERS_SHARE = {
-    "Admin1" : 0.8,
-    "Admin2" : 0.2
-}
