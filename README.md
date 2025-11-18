@@ -36,14 +36,14 @@ telegram-subscription-bot/
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
-```
+   ```
 
 2. Create a config.py and include:
 ```bash
 BOT_TOKEN = "Your Telegram Bot Token"
 ADMIN_IDS = [12345678]
 SCHEDULER_INTERVAL = 3600
-
+```
 ```
 
 3. Run the bot:
