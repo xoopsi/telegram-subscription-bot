@@ -9,7 +9,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # Telegram
 BOT_TOKEN = os.getenv("BOT_TOKEN", "XXXXXXXXXXXXXXXXXXXXXXX")
 
-# Admins (fill later or via env)
+# Admins
 ADMIN_IDS = [
     int(os.getenv("ADMIN_ID_1", "XXXXX")),
     int(os.getenv("ADMIN_ID_2", "XXXXX")),
