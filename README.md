@@ -6,7 +6,7 @@ This project is a fully functional Telegram bot built to manage client subscript
 
 Watch this demo video to learn how the bot works and what it does:
 
-➡️ YouTube Link: [*Place your video link here*](https://youtu.be/2r5f5M7otNA)
+➡️ YouTube Link: https://youtu.be/2r5f5M7otNA
 
 ---
 
